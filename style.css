@@ -1,0 +1,17 @@
+body{font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;}
+h1{
+    font-size: 50px;
+}
+.colorname{
+    color: orange;
+}
+.left{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.left img{
+    width: 100%;
+}
